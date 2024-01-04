@@ -66,6 +66,7 @@ header {
 
 .summary > div > div {
    display: flex;
+   justify-content: space-between;
 }
 
 .ingredients, .directions {
