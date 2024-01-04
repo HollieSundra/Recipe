@@ -64,6 +64,10 @@ header {
    width: 210px;
 }
 
+.summary > div > div {
+   display: flex;
+}
+
 .ingredients, .directions {
    display: flex;
    flex-grow: 1;
